@@ -25,11 +25,13 @@ This project provides an easy-to-use interface for translating text, focusing on
 ---
 
 ## 📂 Project Structure
+```
 Language-transulator/
 │── index.html
 │── main.css
 │── script.js
 │── assets/
+```
 
 ---
 
